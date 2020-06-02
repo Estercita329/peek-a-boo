@@ -4,11 +4,11 @@
 
 #### By _**Ester Tataje**_
 
-## Website created using css and jscript
+## Website created using css and jQuery
 
 
 
-## Setup/Installation Requirements
+## Setup/Installation Requirement
 
 * none
 
@@ -21,7 +21,7 @@ _If you run into any issues, have questions, or tips and ideas please feel free 
 ## Technologies Used
 
 * HTML
-* JSCRIPT
+* JQuery
 * CSS
 
 ### License
