@@ -1,4 +1,4 @@
-# {Peek-A-Boo.html}
+# Peek-A-Boo.html
 
 #### Website called Peek-a-boo
 
@@ -16,7 +16,7 @@
 
 _If you run into any issues, have questions, or tips and ideas please feel free to reach out to me https://github.com/Estercita329.
  Sara Kane <kane.sarak@gmail.com> 
- Teresa Rosinski <trosinski89@gmail.com>"
+ Teresa Rosinski <trosinski89@gmail.com>
 
 ## Technologies Used
 
