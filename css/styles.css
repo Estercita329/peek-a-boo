@@ -1,4 +1,8 @@
-.walrus-showing {
+#walrus-showing {
+  display: none;
+}
+
+#walrus-friends {
   display: none;
 }
 
@@ -8,5 +12,15 @@
 }
 
 .clickable:hover {
+  text-decoration: underline;
+}
+
+
+.clickableFriends {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickableFriends:hover {
   text-decoration: underline;
 }
